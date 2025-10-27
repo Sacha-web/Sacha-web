@@ -8,7 +8,7 @@ Python | R | Power BI | Pandas | Jupyter | SQL | MG-RAST | CARD | Visualização
 
 📊 **Projetos em destaque:**  
 - 🔬 [genes_resistence_mock](https://github.com/Sacha-web/genes_resistence_mock): Análise simulada de resistência antimicrobiana em amostras metagenômicas.  
-- 🌎 [Análise_de_dados](https://github.com/Sacha-web/Data-analysis-course): Estudo exploratório sobre dados ambientais no Brasil.  
+- 🌎 [Análise_de_dados](https://github.com/Sacha-web/Data-analysis-course): Estudo exploratório sobre dados datahackers 2022.  
 - 🤖 [Agentes_de_IA---Google-Gemini](https://github.com/Sacha-web/Agentes_de_IA---Google-Gemini): Experimentos com agentes de IA aplicados à automação de tarefas.  
 
 📫 **Contato:**  
